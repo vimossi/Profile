@@ -19,7 +19,6 @@ function Home() {
     <nav id="links">
       <div><a class="linkedin" href="https://www.linkedin.com/in/vinicius-passos-mossi" target="_blank" rel="noreferrer">LinkedIn</a></div>
       <div><a class="Github" href="https://github.com/vimossi" target="_blank" rel="noreferrer">GitHub</a></div>
-      <div><a class="instagram" href="https://www.instagram.com/vimossi/" target="_blank" rel="noreferrer">Instagram</a></div>
     </nav>
   </div>
   <div class="botaoContact">
@@ -32,9 +31,9 @@ Contact
 About
 </Link>
   </div>
-  <div class="botaoProject">
-<Link to='/contact'>
-Contact
+  <div class="botaoProjects">
+<Link to='/projects'>
+Projects
 </Link>
   </div>
 </div>
