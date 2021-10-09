@@ -1,0 +1,25 @@
+.linkedin , .Github , .instagram {
+  align-items: center;
+  color: rgb(77, 83, 94);
+  font-family: monospace;
+}
+
+img{
+    position: absolute;
+    right: 5%;
+    bottom: 25%;
+    width: 200px;
+    border-radius: 5%;
+  }
+
+
+/* 
+div {
+  width: 20%;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  margin-left: 20%;
+} */
