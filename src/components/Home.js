@@ -32,8 +32,8 @@ Contact
 About
 </Link>
   </div>
-  <div class="botaoProject">
-<Link to='/contact'>
+  <div class="botaoProjects">
+<Link to='/projects'>
 Contact
 </Link>
   </div>
