@@ -1,0 +1,40 @@
+.linkedin , .Github , .instagram {
+  align-items: center;
+  font-family: monospace;
+  color: #610094;
+}
+
+img{
+    position: absolute;
+    right: 5%;
+    bottom: 25%;
+    width: 300px;
+    border-radius: 5%;
+  }
+
+.link {
+  display: inline-block;
+}
+
+body {
+  font-family: monospace;
+  color: black;
+  background-color: white;
+}
+
+.principal {
+  width: 20%;
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
+  margin-left: 20%;
+}
+
+.nome {
+  font-family: monospace;
+  color: #F0A500;
+}
+
+.sobre {
+  font-size:large;
+}
