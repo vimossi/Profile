@@ -8,33 +8,20 @@ function Home() {
   <main>
     <div class="principal">
     <div class="inicio">
-    <h1 class="titulo">Hi,<br />
-      My name is <span class="nome">Vinicius, <br /></span>
-      a Front-end Developer</h1>
+    <h1 class="titulo">Hi, my name is 
+      <span class="nome"> Vinicius</span><br /></h1>
   </div>
   <div class="foto">
     <img id="Vinicius" src={me} alt="Foto do Vinicius"/>
   </div>
-  <div class="link">
-    <nav id="links">
-      <div><a class="linkedin" href="https://www.linkedin.com/in/vinicius-passos-mossi" target="_blank" rel="noreferrer">LinkedIn</a></div>
-      <div><a class="Github" href="https://github.com/vimossi" target="_blank" rel="noreferrer">GitHub</a></div>
-    </nav>
-  </div>
   <div class="botaoContact">
-<Link to='/contact'>
-Contact
-</Link>
+    <Link to='/contact'>Contact</Link>
   </div>
   <div class="botaoAbout">
-<Link to='/about-me'>
-About
-</Link>
+    <Link to='/about-me'>About</Link>
   </div>
   <div class="botaoProjects">
-<Link to='/projects'>
-Projects
-</Link>
+    <Link to='/projects'>Projects</Link>
   </div>
 </div>
 </main>
