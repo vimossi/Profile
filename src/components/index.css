@@ -1,0 +1,28 @@
+* {
+  font-family: monospace;
+}
+
+
+
+.nome {
+  color: #F0A500;
+}
+
+
+a:not(:last-of-type) {
+  margin-right: 10px;
+}
+
+.sobre {
+  margin: 100px auto;
+  max-width: 60%;
+  text-align: justify;
+  padding: 5px;
+
+}
+
+.About-Home {
+  margin-top: 10px;
+  text-align: right;
+  color: #F0A500;
+}

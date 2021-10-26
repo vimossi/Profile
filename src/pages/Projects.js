@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 export default function Projects() {
   return(
-    <secition>
+    <section>
       <h1>Em construção</h1>
-      <Link to='/'>Home</Link>
-    </secition>
+      <Link class="Projects-Home" to='/'>Home</Link>
+    </section>
   );
 }
